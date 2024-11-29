@@ -1,12 +1,14 @@
 {
-  "name": "@mf-test/source",
+  "name": "@shell/source",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {},
   "private": true,
   "dependencies": {
+    "@module-federation/enhanced": "0.6.9",
     "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.11.2"
   },
   "devDependencies": {
     "@babel/core": "^7.14.5",

@@ -1,9 +1,0 @@
-{
-  "name": "mf-test",
-  "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/mf-test/src",
-  "projectType": "application",
-  "tags": [],
-  "// targets": "to see all targets run: nx show project mf-test --web",
-  "targets": {}
-}
